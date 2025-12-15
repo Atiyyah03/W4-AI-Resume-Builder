@@ -1,0 +1,7 @@
+AI RESUME BUILDER - USING HUGGING FACE
+
+Public Access Link : https://huggingface.co/spaces/AtiyyahB/AI_Resume_BuilderV3
+ 
+
+* Please Note : - if the app is sleeping/inactive you may restart the space and it should work for testing
+- Two tabs should be available on top right of the page titled 'App' (which should automatically be the page that the above link sends you to) and 'Files' which should consist of couple of them, the ones relevant are the 'app.py' and the 'requirements.txt'
